@@ -1,5 +1,5 @@
 ## Data-Cleaning-with-SQL
-## This project involved data cleaning of NashvilleHousing file
+## This project involved data cleaning of NashvilleHousing data
 ## Different data cleaning measures applied include:
 - Standardization
 - Filling null values
